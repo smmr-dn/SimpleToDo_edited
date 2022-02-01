@@ -1,0 +1,2 @@
+com/example/simpletodo_edited/BuildConfig.java
+ com.example.simpletodo_edited.BuildConfig
